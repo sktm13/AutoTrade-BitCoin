@@ -1,4 +1,4 @@
-#리플
+
 
 import time
 import pyupbit
