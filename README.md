@@ -75,7 +75,7 @@ python bitcoinautotrade.py
 
 
 
-실행 결과 (AWS EC2 환경에서 실행)
+실행 결과 (AWS 에서 실행)
 ---------------------------------
 ![AutoTradeBitCoin](https://github.com/user-attachments/assets/a1484532-fa5e-4684-9e6a-1aff0cd61739)
 
