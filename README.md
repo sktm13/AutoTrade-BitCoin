@@ -3,13 +3,6 @@ Auto Trading Bot
 Python과 Upbit API를 활용한 암호화폐 자동 매매 프로그램
 
 
-
-Tech Stack
---------------------------------
-Python, pyupbit (Upbit API), pandas
-
-
-
 주요 기능
 --------------------------------
 실시간 암호화폐 가격 조회
@@ -53,26 +46,6 @@ ma15 < current_price
 오전 9시 ~ 다음날 8시 59분:
 매수 조건 확인 후 시장가 매수
 장 마감 직전에 보유 코인 전량 시장가 매도
-
-
-
-실행 방법
----------------------------------
-라이브러리 설치
-pip install pyupbit pandas
-
-
-각 파일 상단에 Upbit API 키 입력
-
-access = "YOUR_ACCESS_KEY"
-
-secret = "YOUR_SECRET_KEY"
-
-
-실행
-
-python bitcoinautotrade.py
-
 
 
 실행 결과 (AWS 에서 실행)
